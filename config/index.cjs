@@ -15,10 +15,10 @@ const USER_CONFIG = {
 
   PROVINCE: '湖北',
   CITY: '武汉',
-   TIAN_API: {
+  TIAN_API: {
     // 天行API KEY，如果使用天行API则需要填写此项
     key: 'e6b36fb57921c6d597897a8e40d72be0',
-   }
+   },
 
   USERS: [
     {
