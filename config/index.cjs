@@ -50,7 +50,7 @@ const USER_CONFIG = {
         { keyword: 'love_day', date: '2023-05-15' },
         // 结婚纪念日
         { keyword: 'marry_day', date: '2022-09-09' },
-      ]，
+        ]，
       {
       // 想要发送的人的名字
       name: '宝贝',
