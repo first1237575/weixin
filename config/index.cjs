@@ -50,34 +50,6 @@ const USER_CONFIG = {
         { keyword: 'love_day', date: '2023-05-15' },
         // 结婚纪念日
         { keyword: 'wx_birthday_0', date: '2022-09-09' },
-    {
-      // 想要发送的人的名字
-      name: '宝贝',
-      // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oCP5y6JQXIH_c1t92JPUUOdLO5vI',
-      // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'OxoExlcbrjN9WciPeFVO1Tm8oKRgUsKf_TRj105HUtc',
-      // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
-      horoscopeDate: '12-27',
-      festivals: [
-        // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
-        {
-          type: '生日', name: '小童同学生日', year: '2003', date: '06-05',
-        },
-        // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
-        {
-          type: '生日', name: '小童同学生日', year: '2003', date: '06-05',
-        },
-        {
-          type: '节日', name: '小童同学生日', year: '2003', date: '06-05',
-        },
-      ],
-      // 我们在一起已经有xxxx天了的配置
-      customizedDateList: [
-        // 在一起的日子
-        { keyword: 'love_day', date: '2023-05-15' },
-        // 结婚纪念日
-        { keyword: 'wx_birthday_0', date: '2022-09-09' },
         ],
     },
   ],
